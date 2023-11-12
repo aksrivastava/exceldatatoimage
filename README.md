@@ -7,7 +7,7 @@ Convert Excel data to beautifully centered PDFs and create cropped images with e
 1. **Clone the repository:**
 
    ```bash
-https://github.com/aksrivastava/exceldatatoimage
+    git clone https://github.com/aksrivastava/exceldatatoimage
 
 2. Navigate to the project folder:
 
