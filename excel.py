@@ -59,7 +59,7 @@ for cell in sheet[column_name]:
     # Increment the counter for the next filename
     file_counter += 1
 
-print("Images generated and saved.")
+print("Images generated and saved Thank me later.")
 
 # Directory containing the images
 input_folder = "output_images/"
@@ -100,4 +100,4 @@ for image_file in image_files:
     # Save the cropped image
     cropped_image.save(os.path.join(output_folder, image_file))
 
-print("Images cropped and saved.")
+print("Images cropped and saved - love you done.")
