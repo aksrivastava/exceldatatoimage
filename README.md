@@ -7,20 +7,20 @@ Convert Excel data to beautifully centered PDFs and create cropped images with e
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/your-repository.git
-
+https://github.com/aksrivastava/exceldatatoimage
 
 2. Navigate to the project folder:
 
-cd your-repository
+cd exceldatatoimage
 
 
 3. Install dependencies:
-pip install -r requirements.txt
+   
+   pip install -r requirements.txt
 
 
 # Place your Excel file (excel.xlsx) in the same directory as the script.
-python script_name.py
+python excel.py
 
 Run the script:
 
@@ -30,6 +30,7 @@ The script will generate PDFs and PNG images in the output_images/ directory. Cr
 # ⚙️ Customization
 You can easily customize the script by adjusting the following parameters in the script:
 Excel File:
+
 excel_file = "excel.xlsx"
 
 Column Name:
