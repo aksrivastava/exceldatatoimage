@@ -1,4 +1,4 @@
-# Excel to PDF to Cropped Images
+# Excel Column A cell data to  desired sized Images
 
 Convert Excel data to beautifully centered PDFs and create cropped images with ease!
 
